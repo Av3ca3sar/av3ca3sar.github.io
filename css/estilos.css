@@ -257,6 +257,13 @@ body {
     color: var(--color-items);
 }
 
+.price_img{
+
+    width: 100%;
+    display: block;
+    padding-bottom: 1em;
+}
+
 .price_cta{
     display: block;
     padding: 20px 0;
