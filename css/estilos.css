@@ -55,6 +55,8 @@ body {
 
 .nav_title{
     font-weight: 300;
+    color: #fff;
+    font-size: larger;
 }
 
 .nav_link{
@@ -115,6 +117,7 @@ body {
 .hero_paragraph{
     margin-bottom: 20px;
 }
+
 
 .cta{
     display: inline-block;
