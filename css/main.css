@@ -105,6 +105,13 @@ aside{
     margin-top: 2rem;
 }
 
+.boton-verano{
+    font-size: 1rem;
+    padding-top: 6rem;
+    text-decoration: underline;
+    
+}
+
 .numerito{
     background-color: var(--clr-white);
     color: var(--clr-main);
