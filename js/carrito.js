@@ -127,8 +127,11 @@ function comprar(){
 };
 
 function eliminarDelCarrito(e){
+    let productoEliminado = productosEnCarrito.find(producto => producto.id === e);
+    
+
     Toastify({
-        text: `${e} ---> eliminado`,
+        text: `${productoEliminado.titulo} ---> eliminado`,
         duration: 1000,
         destination: "https://av3ca3sar.github.io",
         newWindow: true,

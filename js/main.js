@@ -67,7 +67,6 @@ function actualizarBotonesAgregar() {
 }
 
 const productosEnCarritoLS = JSON.parse(localStorage.getItem("productos-en-carrito"));
-console.log(productosEnCarritoLS);
 if(productosEnCarritoLS){
     productosEnCarrito = productosEnCarritoLS;
     actualizarNumerito();
@@ -76,8 +75,11 @@ if(productosEnCarritoLS){
 }
 
 function agregarAlCarrito(e) {
+
+    const productoAgregado = productos.find(producto => producto.id === e.currentTarget.id);
+
     Toastify({
-        text: `${e.currentTarget.id} ---> carrito`,
+        text: `${productoAgregado.titulo} ---> carrito`,
         duration: 1000,
         destination: "https://av3ca3sar.github.io",
         newWindow: true,
@@ -98,8 +100,7 @@ function agregarAlCarrito(e) {
         onClick: function(){} // Callback after click
         }).showToast();
 
-    const idBoton = e.currentTarget.id;
-    const productoAgregado = productos.find(producto => producto.id === idBoton);
+
 
     if (productosEnCarrito.includes(productoAgregado)) {
         const index = productosEnCarrito.indexOf(productoAgregado);
