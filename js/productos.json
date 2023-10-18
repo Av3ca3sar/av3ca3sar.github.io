@@ -1,182 +1,182 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Abrigo 01",
+        "titulo": "London",
         "imagen": "./img/abrigos/01.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 612
     },
     {
         "id": "abrigo-02",
-        "titulo": "Abrigo 02",
+        "titulo": "Tokyo",
         "imagen": "./img/abrigos/02.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 253
     },
     {
         "id": "abrigo-03",
-        "titulo": "Abrigo 03",
+        "titulo": "Paris",
         "imagen": "./img/abrigos/03.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 536
     },
     {
         "id": "abrigo-04",
-        "titulo": "Abrigo 04",
+        "titulo": "New York",
         "imagen": "./img/abrigos/04.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 456
     },
     {
         "id": "abrigo-05",
-        "titulo": "Abrigo 05",
+        "titulo": "Rome",
         "imagen": "./img/abrigos/05.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 195
     },
     {
         "id": "camiseta-01",
-        "titulo": "Camiseta 01",
+        "titulo": "Beijing",
         "imagen": "./img/camisetas/01.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 667
     },
     {
         "id": "camiseta-02",
-        "titulo": "Camiseta 02",
+        "titulo": "Cairo",
         "imagen": "./img/camisetas/02.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 522
     },
     {
         "id": "camiseta-03",
-        "titulo": "Camiseta 03",
+        "titulo": "Sydney",
         "imagen": "./img/camisetas/03.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 228
     },
     {
         "id": "camiseta-04",
-        "titulo": "Camiseta 04",
+        "titulo": "Berlin",
         "imagen": "./img/camisetas/04.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 673
     },
     {
         "id": "camiseta-05",
-        "titulo": "Camiseta 05",
+        "titulo": "Rio de Janeiro",
         "imagen": "./img/camisetas/05.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 146
     },
     {
         "id": "camiseta-06",
-        "titulo": "Camiseta 06",
+        "titulo": "Los Angeles",
         "imagen": "./img/camisetas/06.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 348
     },
     {
         "id": "camiseta-07",
-        "titulo": "Camiseta 07",
+        "titulo": "Moscow",
         "imagen": "./img/camisetas/07.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 454
     },
     {
         "id": "camiseta-08",
-        "titulo": "Camiseta 08",
+        "titulo": "Mumbai",
         "imagen": "./img/camisetas/08.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 678
     },
     {
         "id": "pantalon-01",
-        "titulo": "Pantalón 01",
+        "titulo": "Bangkok",
         "imagen": "./img/pantalones/01.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 624
     },
     {
         "id": "pantalon-02",
-        "titulo": "Pantalón 02",
+        "titulo": "Dubai",
         "imagen": "./img/pantalones/02.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 179
     },
     {
         "id": "pantalon-03",
-        "titulo": "Pantalón 03",
+        "titulo": "Toronto",
         "imagen": "./img/pantalones/03.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 344
     },
     {
         "id": "pantalon-04",
-        "titulo": "Pantalón 04",
+        "titulo": "Istanbul",
         "imagen": "./img/pantalones/04.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 427
     },
     {
         "id": "pantalon-05",
-        "titulo": "Pantalón 05",
+        "titulo": "Amsterdam",
         "imagen": "./img/pantalones/05.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 346
     }
 ]
